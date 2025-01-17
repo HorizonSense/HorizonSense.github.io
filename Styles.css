@@ -1,0 +1,20 @@
+html {
+  display: table;
+  height: 100%;
+  text-align: center;
+  width: 100%;
+}
+
+body {
+  display: table-cell;
+  vertical-align: middle;
+  background-color: #67AFFF;
+}
+
+h2 {
+    color: #FFFFFF;
+}
+
+p {
+    color: #FFFFFF;
+} 
