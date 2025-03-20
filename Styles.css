@@ -1,8 +1,8 @@
 html {
+  font-family: Arial, sans-serif;
   display: table;
-  height: 100%;
-  text-align: center;
   width: 100%;
+  text-align: center;
 }
 
 body {
@@ -11,8 +11,15 @@ body {
   background-color: #67AFFF;
 }
 
+nav {
+  text-align: left;
+  background-color: grey;
+  padding: 6px;
+  border: 2px solid #5c5c5c;
+}
+
 h2 {
-    color: #FFFFFF;
+  color: #FFFFFF;
 }
 
 p {
